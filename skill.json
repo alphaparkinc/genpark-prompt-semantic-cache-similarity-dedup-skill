@@ -1,0 +1,15 @@
+{
+  "name": "genpark-prompt-semantic-cache-similarity-dedup-skill",
+  "version": "1.0.0",
+  "description": "Semantic prompt cache, cosine similarity threshold lookup, hit/miss metrics, and TTL cache expiration.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "cache",
+    "semantic-cache",
+    "prompt-dedup",
+    "cosine-similarity",
+    "genpark",
+    "mcp"
+  ]
+}
